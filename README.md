@@ -29,9 +29,10 @@ In this project, we use regression techniques to predict weekly sales based on f
 ## Usage
 
 1. Ensure Python and the required libraries (Pandas, TensorFlow, and Matplotlib) are installed.
-2. Clone the repository: `git clone https://github.com/raniaskhuzai/weekly-sales-prediction.git`
-3. Navigate to the project directory: `cd weekly-sales-prediction`
-4. Run the `ANN.ipynb` script: `python ANN.ipynb`
+2. Clone the repository: `git clone https://github.com/raniaskhuzai/2008107010051_pertemuan_11_ANN.git`
+3. Navigate to the project directory: `cd Tugas 2 ANN`
+4. Launch Jupyter Notebook script: ``jupyter notebook``
+5. Run the `ANN.ipynb` from the notebook.
 
 ## Results
 
