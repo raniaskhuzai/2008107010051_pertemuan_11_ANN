@@ -31,7 +31,7 @@ In this project, we use regression techniques to predict weekly sales based on f
 1. Ensure Python and the required libraries (Pandas, TensorFlow, and Matplotlib) are installed.
 2. Clone the repository: `git clone https://github.com/raniaskhuzai/2008107010051_pertemuan_11_ANN.git`
 3. Navigate to the project directory: `cd 2008107010051_pertemuan_11_ANN`
-4. Install the required packages using pip: 'pip install -r requirements.txt'
+4. Install the required packages using pip: `pip install -r requirements.txt`
 5. Launch Jupyter Notebook script: ``jupyter notebook``
 6. Run the `ANN.ipynb` from the notebook.
 
